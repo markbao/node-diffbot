@@ -1,0 +1,18 @@
+{ "name" : "diffbot",
+  "description" : "Node.js wrapper for the Diffbot Article and Frontpage APIs",
+  "tags" : ["diffbot", "wrapper", "api", "article"],
+  "version" : "0.1.0",
+  "author" : "Mark Bao <mark@markbao.com>",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/markbao/node-diffbot.git"
+  },
+  "bugs" : {
+    "web" : "http://github.com/markbao/node-diffbot/issues"
+  },
+  "engines" : ["node >= 0.3.6"],
+  "dependencies" : {
+    "request":""
+  },
+  "main" : "./main"
+}
