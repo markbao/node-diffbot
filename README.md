@@ -8,7 +8,8 @@ put it in your node_modules then include it!
 
 ## Example
 
-```var Diffbot = require('diffbot').Diffbot
+```javascript
+var Diffbot = require('diffbot').Diffbot
 
 var diffbot = new Diffbot('d7bde3fafe30213a331b0f0e65d89b0f'); // your API key here
 
