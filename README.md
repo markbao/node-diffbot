@@ -34,7 +34,8 @@ diffbot.frontpage({uri: 'http://prettyspace.tumblr.com/'}, function(err, respons
   // the json return isn't really json...
   // it looks like xml converted to json
   // need to incorporate an xml parser to this
-});```
+});
+```
 
 
 ## Todo
