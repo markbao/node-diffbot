@@ -1,14 +1,4 @@
-# node-diffbot
-
-node-diffbot is a wrapper for the Diffbot API. It only supports the Article and Frontpage APIs as of right now.
-
-## Install
-
-put it in your node_modules then include it!
-
-## Example
-
-```var Diffbot = require('diffbot').Diffbot
+var Diffbot = require('diffbot').Diffbot
 
 var diffbot = new Diffbot('d7bde3fafe30213a331b0f0e65d89b0f'); // your API key here
 
@@ -33,18 +23,4 @@ diffbot.frontpage({uri: 'http://prettyspace.tumblr.com/'}, function(err, respons
   // the json return isn't really json...
   // it looks like xml converted to json
   // need to incorporate an xml parser to this
-});```
-
-
-## Todo
-
-* finish this readme file
-* get some milk and cereal
-* implement Diffbot's Follow API
-* implement Diffbot's RSS API
-* write tests
-* write more tests
-* run those tests
-* run away from bears
-* do first release
-* publish to npm
+});
