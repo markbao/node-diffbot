@@ -4,7 +4,7 @@ node-diffbot is a wrapper for the Diffbot API. It only supports the Article and 
 
 ## Install
 
-put it in your node_modules then include it!
+    npm install diffbot
 
 ## Example
 
@@ -49,4 +49,3 @@ diffbot.frontpage({uri: 'http://prettyspace.tumblr.com/'}, function(err, respons
 * run those tests
 * run away from bears
 * do first release
-* publish to npm
