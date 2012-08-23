@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/markbao/node-diffbot.png)](http://travis-ci.org/markbao/node-diffbot)
 # node-diffbot
 
 node-diffbot is a wrapper for the Diffbot API. It only supports the Article and Frontpage APIs as of right now.
