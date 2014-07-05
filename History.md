@@ -2,6 +2,11 @@ node-diffbot
 
 Version History
 
+1.0.1
+=====
+
+Updated to Diffbot API v3. Thanks, Henri Bergius.
+
 1.0.0
 =====
 
