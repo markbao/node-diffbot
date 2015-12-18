@@ -36,16 +36,3 @@ diffbot.frontpage({uri: 'http://prettyspace.tumblr.com/'}, function(err, respons
   // need to incorporate an xml parser to this
 });
 ```
-
-
-## Todo
-
-* finish this readme file
-* get some milk and cereal
-* implement Diffbot's Follow API
-* implement Diffbot's RSS API
-* write tests
-* write more tests
-* run those tests
-* run away from bears
-* do first release
